@@ -8,7 +8,7 @@ R="\e[31m"
 G="\e[32m"
 n="\e[0m"
 
-echo "script started executing at: $TIMESTAMP
+echo "script started executing at: $TIMESTAMP"
 
 
 VALIDATE(){
